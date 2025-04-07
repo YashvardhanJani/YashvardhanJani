@@ -20,7 +20,7 @@
 
 # 💻 Tech Skills:
 ### Programming Languages
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,c,py" />
   </a>
