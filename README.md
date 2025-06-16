@@ -35,7 +35,6 @@
   </a>
 </p>
 <hr>
-<br>
 
 | ![](https://github-readme-stats.vercel.app/api?username=YashvardhanJani&show_icons=true&theme=radical&hide) | [![](https://streak-stats.demolab.com?user=YashvardhanJani&theme=radical&hide)](https://git.io/streak-stats) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
