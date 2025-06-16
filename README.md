@@ -38,4 +38,4 @@
 
 | ![](https://github-readme-stats.vercel.app/api?username=YashvardhanJani&show_icons=true&theme=radical&hide) | [![](https://streak-stats.demolab.com?user=YashvardhanJani&theme=radical&hide)](https://git.io/streak-stats) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![](https://github-readme-stats.vercel.app/api/top-langs/?username=YashvardhanJani&layout=compact&&show_icons=true&theme=radical&hide)](https://github.com/anuraghazra/github-readme-stats) | ![](https://github-contributor-stats.vercel.app/api?username=YashvardhanJani&limit=5&theme=radical&combine_all_yearly_contributions=true)
+| <span align="center">[![](https://github-readme-stats.vercel.app/api/top-langs/?username=YashvardhanJani&layout=compact&&show_icons=true&theme=radical&hide)](https://github.com/anuraghazra/github-readme-stats)</span> | ![](https://github-contributor-stats.vercel.app/api?username=YashvardhanJani&limit=5&theme=radical&combine_all_yearly_contributions=true)
