@@ -31,7 +31,7 @@
 ### Tools & Technologies
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,pycharm,git,github" />
+    <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,pycharm,anaconda" />
   </a>
 </p>
 <hr>
