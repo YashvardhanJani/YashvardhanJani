@@ -36,6 +36,6 @@
 </p>
 <hr>
 
-| ![](https://github-readme-stats.vercel.app/api?username=YashvardhanJani&show_icons=true&theme=radical&hide) | [![](https://streak-stats.demolab.com?user=YashvardhanJani&theme=radical&hide)](https://git.io/streak-stats) |
+| ![Yashvardhan's Github Stats](https://github-readme-stats.vercel.app/api?username=YashvardhanJani&show_icons=true&theme=radical&hide) | [![Yashvardhan's Streak Stats](https://streak-stats.demolab.com?user=YashvardhanJani&theme=radical&hide)](https://git.io/streak-stats) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![](https://github-readme-stats.vercel.app/api/top-langs/?username=YashvardhanJani&layout=compact&&show_icons=true&theme=radical&hide)](https://github.com/anuraghazra/github-readme-stats) | ![](https://github-contributor-stats.vercel.app/api?username=YashvardhanJani&limit=5&theme=radical&combine_all_yearly_contributions=true)
+| [![Yashvardhan's Top Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YashvardhanJani&layout=compact&&show_icons=true&theme=radical&hide)](https://github.com/anuraghazra/github-readme-stats) | ![Yashvardhan's Contributor Stats](https://github-contributor-stats.vercel.app/api?username=YashvardhanJani&limit=5&theme=radical&combine_all_yearly_contributions=true)
