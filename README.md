@@ -7,10 +7,10 @@
 <p align="left">
   <a href="https://github.com/YashvardhanJani">
     <img alt="Profile Views" title="GitHub Profile Views" 
-      src="https://komarev.com/ghpvc/?username=YashvardhanJani&color=2E2E2E&style=for-the-badge&label=PROFILE+VIEWS"/> </a>
+      src="https://komarev.com/ghpvc/?username=YashvardhanJani&color=2E2E2E&style=for-the-badge&label=PROFILE+VIEWS"/> </a> &nbsp;
   <a href="https://github.com/YashvardhanJani?tab=followers">
     <img alt="followers" title="Follow me on GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/followers/YashvardhanJani?color=0A4C9C&labelColor=063873&style=for-the-badge&logo=person-add&label=FOLLOW&logoColor=white"/> </a>
+      src="https://custom-icon-badges.demolab.com/github/followers/YashvardhanJani?color=0A4C9C&labelColor=063873&style=for-the-badge&logo=person-add&label=FOLLOW&logoColor=white"/> </a> &nbsp;
   <a href="https://github.com/YashvardhanJani?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total GitHub Stars" 
       src="https://custom-icon-badges.demolab.com/github/stars/YashvardhanJani?color=FFC300&style=for-the-badge&labelColor=D49A00&logo=star&logoColor=white&label=STARS"/> </a>
