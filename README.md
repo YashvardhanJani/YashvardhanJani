@@ -4,12 +4,12 @@
 
 🎯A curious and passionate Computer Science Student @PDEU'28<br><br>I have keen interest in Machine Learning & AI Technology. Currently, I am focusing on exploring & learn New Skills and building a Projects.<br><br>Through exploring Competitive Programming, I resolute problem solving skill and to contribute to undertaking that inspire progress and yield success.<br><br>I welcome the opportunity to connect with like-minded individuals.<br>Let's connect ✨ and I'm excited to hear about your ideas and see how we can create something great together! 🫱🏻‍🫲🏼
 <br><br>
-🖥️ You can check all my projects <a href="https://github.com/YashvardhanJani?tab=repositories" style="display:inline-block;padding:10px 20px;background-color:#337ab7;color:#ffffff;text-decoration:none;border-radius:5px;">Click me</a>
+🖥️ You can check all my projects <a href="https://github.com/YashvardhanJani?tab=repositories" style="display:inline-block;padding:10px 20px;background-color:#337ab7;color:#ffffff;text-decoration:none;border-radius:5px;"> `Click me` </a>
 <br><br>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=YashvardhanJani&color=2E2E2E&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/YashvardhanJani)
-[![Followers](https://custom-icon-badges.demolab.com/github/followers/YashvardhanJani?color=0A4C9C&labelColor=063873&style=for-the-badge&logo=person-add&label=FOLLOW&logoColor=white)](https://github.com/YashvardhanJani?tab=followers)
-[![Stars](https://custom-icon-badges.demolab.com/github/stars/YashvardhanJani?color=FFC300&style=for-the-badge&labelColor=D49A00&logo=star&logoColor=white&label=STARS)](https://github.com/YashvardhanJani?tab=repositories&sort=stargazers)
+![Followers](https://img.shields.io/github/followers/YashvardhanJani?color=0A4C9C&labelColor=063873&style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/YashvardhanJani?color=FFC300&style=for-the-badge&labelColor=D49A00)
 
 <hr>
 
