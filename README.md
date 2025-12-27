@@ -42,10 +42,14 @@
 </p>
 <hr>
 
-| ![Yashvardhan's Github Stats](https://github-readme-stats.vercel.app/api?username=YashvardhanJani&show_icons=true&theme=radical&hide) | [![Yashvardhan's Streak Stats](https://streak-stats.demolab.com?user=YashvardhanJani&theme=radical&hide)](https://git.io/streak-stats) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![Yashvardhan's Top Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YashvardhanJani&layout=compact&&show_icons=true&theme=radical&hide)](https://github.com/anuraghazra/github-readme-stats) | ![Yashvardhan's Contributor Stats](https://github-contributor-stats.vercel.app/api?username=YashvardhanJani&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
 <div align="center">
+
+  | ![Yashvardhan's Github Stats](https://github-readme-stats.vercel.app/api?username=YashvardhanJani&show_icons=true&theme=radical&hide) | [![Yashvardhan's Streak Stats](https://streak-stats.demolab.com?user=YashvardhanJani&theme=radical&hide)](https://git.io/streak-stats) |
+  | ------------------------------------------------------------ | ------------------------------------------------------------ |
+  | [![Yashvardhan's Top Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YashvardhanJani&layout=compact&&show_icons=true&theme=radical&hide)](https://github.com/anuraghazra/github-readme-stats) | ![Yashvardhan's Contributor Stats](https://github-contributor-stats.vercel.app/api?username=YashvardhanJani&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YashvardhanJani&bg_color=1B1B27&line=BF91F3&point=39BDAE&area=true&area_color=BF91F3&title_color=70A5FD&color=39BDAE)
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+
 </div>
