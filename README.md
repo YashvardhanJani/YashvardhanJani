@@ -50,6 +50,17 @@
 
   ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YashvardhanJani&bg_color=1B1B27&line=BF91F3&point=39BDAE&area=true&area_color=BF91F3&title_color=70A5FD&color=39BDAE)
 
+  ### 🏆 GitHub Trophies
+  <p align="center">
+    <a href="https://github.com/YashvardhanJani">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=YashvardhanJani&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=YashvardhanJani&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+        <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=YashvardhanJani&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+      </picture>
+    </a>
+  </p>
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 
 </div>
