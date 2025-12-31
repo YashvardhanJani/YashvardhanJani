@@ -13,6 +13,21 @@
 
 <hr>
 
+# 💻 Tech Skills:
+### Programming Languages
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js" />
+  </a>
+</p>
+
+### Tools & Technologies
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,pycharm,anaconda" />
+  </a>
+</p>
+
 ## Competitive Programming Profiles
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/YashvardhanJani)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/YashvardhanJani/)
@@ -25,21 +40,6 @@
 <br>
 </p>
 
-# 💻 Tech Skills:
-### Programming Languages
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js" />
-  </a>
-</p>
-
-
-### Tools & Technologies
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,pycharm,anaconda" />
-  </a>
-</p>
 <hr>
 
 <div align="center">
@@ -50,7 +50,7 @@
 
   ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YashvardhanJani&bg_color=1B1B27&line=BF91F3&point=39BDAE&area=true&area_color=BF91F3&title_color=70A5FD&color=39BDAE)
 
-  ### 🏆 GitHub Trophies
+  ## 🏆 GitHub Trophies
   <p align="center">
     <a href="https://github.com/YashvardhanJani">
       <picture>
