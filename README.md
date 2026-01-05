@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏻 I'm Yashvardhan Jani </h1>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=3000&pause=1200&color=FF9800&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;I+am+Yashvardhan+Jani+👨🏻‍💻;Open+Source+Contributor+🌐;AL-ML+Explorer+🤖;Let's+connect+%26+build+something+amazing!💡" alt="Typing SVG" /> </div>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=3000&pause=1200&color=FF9800&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;I+am+Yashvardhan+Jani+👨🏻‍💻;Open+Source+Contributor+🌐;AL-ML+Explorer+🤖;Open+Source+Core+Member+@+GDG+PDEU;Let's+connect+%26+build+something+amazing!💡" alt="Typing SVG" /> </div>
 
 
 <img src="assets/YPJANI_octocat.png" width="300" align="right" />
