@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋🏻 I'm Yashvardhan Jani </h1>
 
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF9800&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;I+am+Yashvardhan+Jani+👨🏻‍💻;AL-ML+Explorer+🤖;Open+Source+Contributor+🌐;Let's+connect+%26+build+something+amazing!💡" alt="Typing SVG" /> </div>
+
+
 <img src="assets/YPJANI_octocat.png" width="300" align="right" />
 
 🎯A curious and passionate Computer Science Student @PDEU'28<br><br>I have keen interest in Machine Learning & AI Technology. Currently, I am focusing on exploring & learn New Skills and building a Projects.<br><br>Through exploring Competitive Programming, I resolute problem solving skill and to contribute to undertaking that inspire progress and yield success.<br><br>I welcome the opportunity to connect with like-minded individuals.<br>Let's connect ✨ and I'm excited to hear about your ideas and see how we can create something great together! 🫱🏻‍🫲🏼
