@@ -65,9 +65,9 @@
     </a>
   </p>
 
-  ## 📊 Github 3D Contributions
+  ## 📊 GitHub 3D Contributions
   ![Yashvardhan's Contributions](./profile-3d-contrib/profile-green-animate.svg)
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!%20❤️&fontSize=20&fontColor=ffffff&animation=twinkling" />
 
 </div>
