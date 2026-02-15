@@ -88,6 +88,8 @@
     </tr>
   </table>
 
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YashvardhanJani&bg_color=1B1B27&line=BF91F3&point=39BDAE&area=true&area_color=BF91F3&title_color=70A5FD&color=39BDAE)
+
   ## 🏆 GitHub Trophies
   <p align="center">
     <a href="https://github.com/YashvardhanJani">
