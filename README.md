@@ -68,11 +68,25 @@
 
 <div align="center">
 
-  | ![](https://github-readme-stats.vercel.app/api?username=YashvardhanJani&show_icons=true&theme=dark) | [![](https://streak-stats.demolab.com?user=YashvardhanJani&theme=dark)](https://git.io/streak-stats) |
-  | ------------------------------------------------------------ | ------------------------------------------------------------ |
-  | [![](https://github-readme-stats.vercel.app/api/top-langs/?username=YashvardhanJani&layout=compact&&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) | ![](https://github-contributor-stats.vercel.app/api?username=YashvardhanJani&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YashvardhanJani&bg_color=1B1B27&line=BF91F3&point=39BDAE&area=true&area_color=BF91F3&title_color=70A5FD&color=39BDAE)
+## 📊 GitHub Stats
+  <table>
+    <tr>
+      <td align="center">
+        <img width="300" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=YashvardhanJani&layout=compact&theme=dark&size_weight=0.7&count_weight=0.3" />
+      </td>
+      <td align="center">
+          <img hight= "400" width="400" src="https://streak-stats.demolab.com?user=YashvardhanJani&theme=dark" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img width="400" src="https://github-readme-stats-salesp07.vercel.app/api?username=YashvardhanJani&count_private=true&show_icons=true&theme=react&rank_icon=github" />
+      </td>
+      <td align="center">
+          <img width="400" src="https://github-contributor-stats.vercel.app/api?username=YashvardhanJani&limit=4&theme=react&combine_all_yearly_contributions=true" />
+      </td>
+    </tr>
+  </table>
 
   ## 🏆 GitHub Trophies
   <p align="center">
@@ -85,7 +99,7 @@
     </a>
   </p>
 
-  ## 📊 GitHub 3D Contributions
+  ## 📶 GitHub 3D Contributions
   ![Yashvardhan's Contributions](./profile-3d-contrib/profile-green-animate.svg)
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!%20❤️&fontSize=20&fontColor=ffffff&animation=twinkling&stroke=000000&strokeWidth=0.7" />
