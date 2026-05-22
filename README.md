@@ -92,12 +92,8 @@
 
   ## 🏆 GitHub Trophies
   <p align="center">
-    <a href="https://github.com/YashvardhanJani">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=YashvardhanJani&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=YashvardhanJani&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
-        <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=YashvardhanJani&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
-      </picture>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=YashvardhanJani&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Niteshagarwal01's Trophies" />
     </a>
   </p>
 
