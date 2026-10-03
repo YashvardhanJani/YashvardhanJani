@@ -88,13 +88,12 @@
     </tr>
   </table>
 
-  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YashvardhanJani&bg_color=1B1B27&line=BF91F3&point=39BDAE&area=true&area_color=BF91F3&title_color=70A5FD&color=39BDAE)
+<!--
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YashvardhanJani&bg_color=1B1B27&line=BF91F3&point=39BDAE&area=true&area_color=BF91F3&title_color=70A5FD&color=39BDAE) -->
 
   ## 🏆 GitHub Trophies
   <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=YashvardhanJani&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Niteshagarwal01's Trophies" />
-    </a>
+    <img src="https://github-trophies.vercel.app/?username=YashvardhanJani&theme=juicyfresh&no-frame=true&margin-w=8&margin-h=8" />
   </p>
 
   ## 📶 GitHub 3D Contributions
