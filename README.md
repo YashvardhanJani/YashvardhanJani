@@ -14,6 +14,8 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=YashvardhanJani&color=2E2E2E&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/YashvardhanJani)
 ![Followers](https://img.shields.io/github/followers/YashvardhanJani?color=0A4C9C&labelColor=063873&style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/YashvardhanJani?color=FFC300&style=for-the-badge&labelColor=D49A00)
+[![Resume](https://img.shields.io/badge/RESUME-PDF-960b0b?style=for-the-badge&logo=readthedocs&logoColor=black&labelColor=fcc2b1)](https://drive.google.com/file/d/1vEq46D5zDB5utFptpdPrRzTW1PUL2KXT/view?usp=sharing)
+
 
 <hr>
 
